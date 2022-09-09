@@ -1,0 +1,2 @@
+# Nonebot-CsgoKz
+CsgoKZ Plugin
